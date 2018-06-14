@@ -9,7 +9,7 @@ public class Recursive {
 
 	static Scanner sc = new Scanner(System.in);
 
-	// Recursively count down from i
+	// Recursively count down from a to 1
 	public static boolean countdown(int a) {
 		if (a < 1)
 			return false;
@@ -18,7 +18,7 @@ public class Recursive {
 
 	}
 
-	// Recursively count up to 10
+	// Recursively count up from a to 10
 	public static boolean countup(int a) {
 		if (a > 10)
 			return false;
