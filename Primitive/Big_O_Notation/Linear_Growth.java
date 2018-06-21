@@ -1,4 +1,4 @@
-
+// Andrew McKeown
 public class Linear_Growth {
 
 	public static int n = 0;
